@@ -45,8 +45,8 @@ Complete the entire challenge with:
 ---
 
 ## 🔗 Connect With Me
-- 💼 GitHub: [riyacodeX01](https://github.com/your-riyacodeX01)
-- 🧠 LeetCode: [RiyaC0deX](https://leetcode.com/your-leetcode-RiyaC0deX)
+- 💼 GitHub: [riyacodeX01](https://github.com/riyacodeX01)  
+- 🧠 LeetCode: [RiyaC0deX](https://leetcode.com/RiyaC0deX)
 
 ---
 
